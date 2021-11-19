@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Messier71
-- 👀 I’m interested in opensource, Linux & BSD system administration and containerisation/app modernisation
+- 👀 I’m interested in modern cloud infrastucture and exploring containerisation/app modernisation
 - 🌱 I’m currently learning kubernetes and python
-- 💞️ I’m looking to collaborate on opensoruce projects around Linux & BSD
 - 📫 How to reach me 
 
 <!---
